@@ -44,7 +44,7 @@ body{
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 54%;
+  width: 60%;
 }
 .header-links li{
   margin: 0 25px;
